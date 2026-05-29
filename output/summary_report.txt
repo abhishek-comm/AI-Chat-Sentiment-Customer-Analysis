@@ -1,0 +1,37 @@
+
+====================================================
+  CUSTOMER CHAT ANALYSIS - SUMMARY REPORT
+====================================================
+
+DATASET
+  Total messages analysed : 39
+
+SENTIMENT RESULTS
+  Positive : 11 messages (28.2%)
+  Negative : 14 messages (35.9%)
+  Neutral  : 14 messages  (35.9%)
+
+TOP COMPLAINT KEYWORDS (from negative messages)
+  order, item, payment, wrong, delivered
+
+TOPIC DISTRIBUTION
+topic
+Delivery     13
+Technical     7
+Product       6
+Payment       6
+Support       4
+General       3
+
+KEY INSIGHT
+  Most complaints are about: Delivery
+  Most common complaint word: "order"
+
+APPROACH USED
+  - Text cleaning  : lowercase, remove punctuation
+  - Sentiment      : VADER (NLTK) - rule-based NLP model
+  - Topic tagging  : keyword matching
+  - Complaints     : word frequency on negative messages
+  - Visuals        : Matplotlib charts
+
+====================================================

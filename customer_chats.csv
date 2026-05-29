@@ -1,0 +1,40 @@
+message,category
+"My order hasn't arrived yet, it's been 2 weeks!",Delivery
+"Package was supposed to arrive 3 days ago, still waiting.",Delivery
+"Wrong item was delivered to me.",Delivery
+"Package arrived damaged, need replacement.",Delivery
+"Delivery was very late, so disappointed.",Delivery
+"Package arrived earlier than expected, great!",Delivery
+"Fast delivery, item was well packed. Happy!",Delivery
+"Received my order on time, thank you.",Delivery
+"When will my order ship?",Delivery
+"How do I track my package?",Delivery
+"I was charged twice for the same order!",Payment
+"Refund has not been processed after 10 days.",Payment
+"Money was deducted but no order confirmation.",Payment
+"I need my refund immediately.",Payment
+"Payment failed but amount was debited.",Payment
+"Refund was processed quickly, very satisfied.",Payment
+"Payment gateway worked smoothly, no issues.",Payment
+"What payment methods do you accept?",Payment
+"Can I cancel my order?",Payment
+"App keeps crashing every time I open it.",Technical
+"Website is down, I cannot place an order.",Technical
+"Login page is not loading properly.",Technical
+"I cannot reset my password, link doesn't work.",Technical
+"Getting error 404 every time at checkout.",Technical
+"The new app update is smooth and fast!",Technical
+"Website loads much faster now, well done.",Technical
+"Do you have a mobile app?",Technical
+"Product quality is very poor, not as described.",Product
+"Item broke within a day of using it.",Product
+"Color is completely different from the photo.",Product
+"Product quality is excellent, very satisfied!",Product
+"Really happy with the product, will buy again.",Product
+"Is this product available in blue color?",Product
+"Support team is very rude and unhelpful.",Support
+"Waited 45 minutes on hold, no response.",Support
+"No one is responding to my emails.",Support
+"Support agent was very helpful and polite.",Support
+"Issue was resolved in one call, excellent!",Support
+"Is there a customer helpline number?",Support
